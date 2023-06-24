@@ -16,3 +16,45 @@ thousands of threads, where each thread acts as a real-world user loading the pa
 programmatically measure response time, data 1/0, etc.
 We would then analyze the results based on the data gathered during the tests and compare it with the
 accepted values.
+
+Test a Pen: How would you test a pen?
+SOLUTION
+This problem is largely about understanding the constraints and approaching the problem in a structured
+manner.
+To understand the constraints, you should ask a lot of questions to understand the "who, what, where,
+when, how and why" of a problem (or as many of those as apply to the problem). Remember that a good
+tester understands exactly what he is testing before starting the work.
+To illustrate the technique in this problem, lets go through the idea.
+ How would you test a pen?
+ Let me find out a bit about the pen. Who is going to use the pen?
+ Probably children.
+ Okay, that's interesting. What will they be doing with it? Will they be writing, drawing, or
+ doing something else with it?
+ Drawing.
+ Okay, great. On what? Paper? Clothing? Walls?
+ On clothing.
+ Great. What kind of tip does the pen have? Felt? Ballpoint? Is it intended to wash off, or is it
+intended to be permanent?
+ It's intended to wash off.
+Many questions later, you may get to this:
+ Okay, so as I understand it, we have a pen that is being targeted at 5 to 10-year-olds. The pen
+has a felt tip and comes in red, green, blue and black. It's intended to wash off when clothing is washed.
+Is that correct?
+The candidate now has a problem that is significantly different from what it initially seemed to be. This is
+not uncommon. In fact, many interviewers intentionally give a problem that seems clear (everyone knows
+what a pen is!), only to let you discover that it's quite a different problem from what it seemed. Their belief
+is that users do the same thing, though users do so accidentally.
+Now that you understand what you're testing, it's time to come up with a plan of attack. The key here is
+structure.
+Consider what the different components of the object or problem, and go from there. In this case, the
+components might be:
+Fact check: Verify that the pen is felt tip and that the ink is one of the allowed colors.
+Intended use: Drawing. Does the pen write properly on clothing?
+• Intended use: Washing. Does it wash off of clothing (even if it's been there for an extended period of
+time)? Does it wash off in hot warm and cold water?
+Safety: Is the pen safe (non-toxic) for children?
+Unintended uses: How else might children use the pen?They might write on other surfaces, so you need
+to check whether the behavior there is correct. They might also stomp on the pen, throw it, and so on.
+You'll need to make sure that the pen holds up under these conditions.
+Remember that in any testing question, you need to test both the intended and unintended scenarios.
+People don't always use the product the way you want them to.
