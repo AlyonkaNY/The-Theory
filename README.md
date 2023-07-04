@@ -1,10 +1,9 @@
-# Testing-is-Fun
-https://www.mindmeister.com/map/2793478761?t=2x8VEjUy6g
-
-<img width="341" alt="image" src="https://github.com/AlyonkaNY/Testing-is-Fun/assets/134506592/5a624275-08f7-4ee2-b08b-c0683b5cfa0a">
-
-<img width="380" alt="image" src="https://github.com/AlyonkaNY/Testing-is-Fun/assets/134506592/e61690b4-46ad-412f-8147-a00737607a23">
-<img width="198" alt="image" src="https://github.com/AlyonkaNY/Testing-is-Fun/assets/134506592/5402b369-c484-4a1f-86ce-d5c4592a835e">
-
-
-
+<h2>Testing/Тестирование</h2>
+checking the correspondence between actual and expected behavior<br> (проверка соответствия между реальным и ожидаемым поведением)
+<h3>Quality Control includes</h3>
+<ul>
+    <li>Test Management (планированию работ)</li>
+<li>Test Design (проектирование тестов)</li>
+<li>Test Execution (выполнение тестов)</li>
+<li>Test Analysis (анализ результатов тестирования)</li> (to make sure that the final product meets the company standarts. Checking Functionality, Reliability, and how close the product to User's expectations)
+</ul>
