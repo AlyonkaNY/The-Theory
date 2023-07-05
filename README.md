@@ -1,9 +1,34 @@
-<h2>Testing/Тестирование</h2>
-checking the correspondence between actual and expected behavior<br> (проверка соответствия между реальным и ожидаемым поведением)
-<h3>Quality Control includes</h3>
-<ul>
+<h2>Testing</h2>
+<b>checking the correspondence between actual and expected behavior</b><br> (проверка соответствия между реальным и ожидаемым поведением)
+<h3>Quality Control(Software Quality)includes</h3>
+<ul>   
     <li>Test Management (планированию работ)</li>
 <li>Test Design (проектирование тестов)</li>
 <li>Test Execution (выполнение тестов)</li>
 <li>Test Analysis (анализ результатов тестирования)</li> (to make sure that the final product meets the company standarts. Checking Functionality, Reliability, and how close the product to User's expectations)
-</ul>
+</ul> 
+<img src="https://github.com/AlyonkaNY/Testing-is-Fun/assets/134506592/a134ab82-24bb-43f7-b694-455df4cc5f51" width="300" height="300">
+<h2>Verification vs Validation</h2>
+<h3>Verification</h3><b>
+Assessment of product compliance with requirements (specifications).
+Answers the question: “Is the system working as required?”</b><br> Oценка соответствия продукта требованиям (спецификации)<br>
+Отвечает на вопрос: “Система работает в соответствии с требованиями?”<br>
+<h3>Validation</h3><b>Assessment of product compliance with user expectations and requirements.
+Answers the question: “Do the requirements meet the user’s expectations?”</b><br> Oценка соответствия продукта ожиданиям и требованиям пользователей<br>
+Отвечает на вопрос: “Требования удовлетворяют ожидания пользователя?”
+<img src="https://github.com/AlyonkaNY/Testing-is-Fun/assets/134506592/0f9e6fc9-0515-4246-b6bd-7086f0e95790" width="450" height="300">
+<h2>Goals of Software Testing</h2>
+<p>The main aim of testing is:<ul>
+    <li>Maintain the quality of the product</li><br><li> Check if the product meets all the requirements described</li><br><li>
+Verify if it works correctly under all circumstances</li></ul><br>(продукт соответствует всем описанным требованиям,
+ работает правильно при любых обстоятельствах)</p>
+ <h2>Testing Stages</h2>
+<p> Let's look at the different stages of testing in detail. 
+<li>Testing Stage 1 – Product analysis</li>
+<li>Testing Stage 2 – Working with Requirements</li>
+<li>Testing Stage 3 – Test plan development</li>
+<li>Testing Stage 4 – Creation of test documentation</li>
+<li>Testing Stage 5 – Testing</li>
+<li>Testing Stage 6 – Test Report</li>
+<li>Testing Stage 7 – Stabilization</li>
+<li>Testing Stage 8 – Software is implemented/Exploitation</li></p>
