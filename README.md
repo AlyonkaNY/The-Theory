@@ -48,3 +48,24 @@ A document describing the entire scope of testing work
 
 <h2>Test Design</h2>
 <b>This is the stage of the software testing process at which test cases are designed and created, in accordance with the quality criteria and testing objectives</b><br>( это этап процесса тестирования ПО, на котором проектируются и создаются тест кейсы, в соответствии с критериями качества и целями тестирования)
+<h2>Test Case</h2>
+<b>It is an artifact that describes the set of steps, specific conditions and parameters required to test the function</b>
+<ol><li>ID (идентификатор)</li>
+<li>Title (название)</li>
+<li>Type (тип)</li>
+<li>Priority (приоритет)</li>
+<li>Preconditions (предусловия)</li>
+<li>Steps (шаги)</li>
+<li>Expected Result (ожидаемый результат)</li>
+<li>Actual Result</li>    
+<li>Post conditions (пост условия) - например очистка данных или возвращение системы в первоначальное состояние</li></ol>
+<b>Positive Testing</b>
+<p>Type of testing that can be performed on the system by providing the valid data as input. It checks whether an application behaves as expected with positive inputs. This test is done to check the application that does what it is supposed to do.</p><br>
+<b>Negative testing</b>
+<p>Software testing type that checks a system for unexpected conditions. 
+Most issues is discovered under Negative Test. To do negative testing we have to consider all the possible cases.</p><br>
+<img src="https://github.com/AlyonkaNY/Testing-is-Fun/assets/134506592/e7e796dd-a93d-4de7-9288-989438da21d5" width="450 height="350" >
+
+
+
+
