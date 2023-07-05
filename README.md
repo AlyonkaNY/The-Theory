@@ -32,3 +32,19 @@ Verify if it works correctly under all circumstances</li></ul><br>(продук�
 <li>Testing Stage 6 – Test Report</li>
 <li>Testing Stage 7 – Stabilization</li>
 <li>Testing Stage 8 – Software is implemented/Exploitation</li></p>
+<h2>Test Plan</h2>
+A document describing the entire scope of testing work
+<li>What to test?</li>
+<li>When/Timing/Schedule?</li>
+<li>Test start/end criteria</li>
+<li>Environment dev/staging/production?</li>
+<li>Approaches/techniques/tools/types of testing?</li>
+<li>Browsers/versions/OS/screen resolutions?</li>
+<li>Responsibilities?</li>
+<li>Resources/Education if available</li>
+<li>Testing strategy</li>
+<li>Links to documentation</li>
+<li>Links to requirements</li>
+
+<h2>Test Design</h2>
+<b>This is the stage of the software testing process at which test cases are designed and created, in accordance with the quality criteria and testing objectives</b><br>( это этап процесса тестирования ПО, на котором проектируются и создаются тест кейсы, в соответствии с критериями качества и целями тестирования)
