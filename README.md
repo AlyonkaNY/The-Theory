@@ -137,7 +137,20 @@ At the intersection, a mark indicating that the current column's requirement is 
 <b>Smoke Testing</b><br>
 <b>Regression Testing</b><br>
 <b>Localization Testing</b><br>
-<b>Black Box</b>, <b>Grey Box</b>, <b>White Box</b><br>
+<b>Interface Tesrting(API)</b><br>
+                                  
+<h3>Non-Functional Testing</h3>                                
+<b>Performance Testing</b><br>
+<b>Load Testing</b><br>
+<b>Stress Testing</b><br>
+<b>Volume Testing</b><br>
+<b>Interoperability Testing</b>
+
+<h3>Exploratory vs Ad-hoc testing</h3>
+The key difference between exploratory testing and ad-hoc testing is that exploratory testing is a structured approach that is performed by testers, while ad-hoc testing is an unstructured, improvisational testing approach.<br>
+<img src="https://github.com/AlyonkaNY/The-Theory/assets/134506592/4cfe05d6-036b-4025-804d-34243ea60b45">
+
+
 
 
 
