@@ -124,8 +124,20 @@ At the intersection, a mark indicating that the current column's requirement is 
     <li><b>Spiral</b>- Can easily change requirements at later phases and additional Functionality can be added at a later date.</li>
     <li><b>ScrumBan</b>-  Scrumban is more fluid and focuses on continuous work with 1-year, 6-month, and 3-month scheduled work.</li>
 </ul>
-
-
+<h2>Software Testing Levels</h2>
+<ol>
+    <li>Unit Testing- Testing the small piece of code that can be logically isolated in a system, like a function, a subroutine, a method or property.</li>
+    <li>Integration Testing-  Integration Testing is defined as a type of testing where software modules or classes or functions are integrated logically and tested as a group.For example API testing via Postman</li>
+    <li>System Testing- Verification of both functional and non-functional system requirements.</li>
+    <li>Acceptance Testing- The aim of this test is to evaluate the compliance of the system with the business requirements and assess whether it is acceptable for delivery or not.</li>
+</ol>
+<h2>Testing Types</h2>
+<h3>Functional Testing</h3>
+<b>GUI Testing</b> ‘Graphical User Interface’<br>
+<b>Smoke Testing</b><br>
+<b>Regression Testing</b><br>
+<b>Localization Testing</b><br>
+<b>Black Box</b>, <b>Grey Box</b>, <b>White Box</b><br>
 
 
 
