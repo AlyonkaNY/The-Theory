@@ -1,0 +1,22 @@
+We have to test a text field (password) which accepts the length between 6-12 characters.
+
+Minimum boundary value is 6
+
+Maximum boundary value is 12
+
+Valid text length is 6, 7, 11, 12
+
+Invalid text length is 5, 13
+
+Test case 1: Text length of 5 (min-1) = Invalid
+
+Test case 2: Text length of exactly 6 (min) = Valid
+
+Test case 3: Text length of 7 (min+1) = Valid
+
+
+Test case 4: Text length of 11 (max-1) = Valid
+
+Test case 5: Text length of exactly 12 (max) = Valid
+
+Test case 6: Text length of 13 (max+1) = Invalid
